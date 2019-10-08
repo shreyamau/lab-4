@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Scorekeeping app</string>
+    <string name="score1_label">score _1</string>
+    <string name="score1_value">90</string>
+    <string name="score2_label">score_2</string>
+    <string name="score2_value">89</string>
+    <string name="button1_inc">+</string>
+    <string name="button1_dec">-</string>
+</resources>
